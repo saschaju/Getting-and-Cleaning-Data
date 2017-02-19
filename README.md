@@ -28,7 +28,7 @@ test data:  2'947
 train data: 7'352 
 
 
-**features.txt:*** The list of activity measures i.e. the variable names
+_**features.txt:**_ The list of activity measures i.e. the variable names
 
 **activity_labels.txt:*** A list of possible types of activities.
 
