@@ -26,7 +26,7 @@ testset <- read.delim(paste0(testsetpath, "/X_test.txt"), colClasses = "numeric"
 # Read test set subject list
 testsetsubjects <- read.delim(paste0(testsetpath, "/subject_test.txt"), sep = "", header = FALSE) # n = 2947
 # Read test set activities
-testsetactivities <- read.delim(paste0(testsetpath, "/y_test.txt"), sep = "", header = FALSE) # n = 7352
+testsetactivities <- read.delim(paste0(testsetpath, "/y_test.txt"), sep = "", header = FALSE) # n = 2947
 # Combine test set with subject list
 testset <- cbind(testsetsubjects, testsetactivities, testset)
 
