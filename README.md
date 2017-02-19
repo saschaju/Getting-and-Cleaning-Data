@@ -8,7 +8,7 @@ The folder should contain to subfolders, "train" and "test" as well as four text
 
 The content of the files are described in the Codebook.md in this repository.
 
-
+## The raw files
 In summary, the following files are used in the analysis:
 
 **X_train.txt:** The activity measures that are captured by the smartphone
