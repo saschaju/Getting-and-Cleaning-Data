@@ -11,11 +11,11 @@ The content of the files are described in the Codebook.md in this repository.
 ## The raw files
 In summary, the following files are used in the analysis:
 
-**X_train.txt:** The activity measures that are captured by the smartphone
+_**X_train.txt:**_ The activity measures that are captured by the smartphone
 
-**subject_train.txt:** The list of individuals that correspond to the activity
+_**subject_train.txt:**_ The list of individuals that correspond to the activity
 
-**y_train.txt:*** The type of activity of the individual during the measurement
+_**y_train.txt:**_ The type of activity of the individual during the measurement
 
 The same holds for the test set files: X_test.txt, subject_test.txt and y_train.txt
 
@@ -30,7 +30,7 @@ train data: 7'352
 
 _**features.txt:**_ The list of activity measures i.e. the variable names
 
-**activity_labels.txt:*** A list of possible types of activities.
+_**activity_labels.txt:**_ A list of possible types of activities.
 
 ## Data Analysis
 
