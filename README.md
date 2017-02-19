@@ -17,21 +17,20 @@ _**subject_train.txt:**_ The list of individuals that correspond to the activity
 
 _**y_train.txt:**_ The type of activity of the individual during the measurement
 
-The same holds for the test set files: _X_test.txt_, _subject_test.txt_ and _y_train.txt_
+The same holds for the test set files: _**X_test.txt**_, _**subject_test.txt**_ and _**y_train.txt**_
+
+_**features.txt:**_ The list of activity measures i.e. the variable names
+
+_**activity_labels.txt:**_ A list of possible types of activities.
 
 
 
-**nr. of observations**
+## nr. of observations
 
 test data:  2'947
 
 train data: 7'352 
 
 
-_**features.txt:**_ The list of activity measures i.e. the variable names
-
-_**activity_labels.txt:**_ A list of possible types of activities.
-
 ## Data Analysis
-
 
