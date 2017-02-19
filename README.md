@@ -8,6 +8,7 @@ The folder should contain to subfolders, "train" and "test" as well as four text
 
 The content of the files are described in the Codebook.md in this repository.
 
+
 In summary, the following files are used in the analysis:
 
 **X_train.txt:** The activity measures that are captured by the smartphone
@@ -18,13 +19,18 @@ In summary, the following files are used in the analysis:
 
 The same holds for the test set files: X_test.txt, subject_test.txt and y_train.txt
 
-***nr. of observations**
+
+**nr. of observations**
 
 test data:  2'947
 
 train data: 7'352 
 
+
 **features.txt:*** The list of activity measures i.e. the variable names
 
-**activity_labels.txt:*** A list of possible types of activities 
-## 
+**activity_labels.txt:*** A list of possible types of activities.
+
+## Data Analysis
+
+
