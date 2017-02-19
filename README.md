@@ -17,7 +17,7 @@ _**subject_train.txt:**_ The list of individuals that correspond to the activity
 
 _**y_train.txt:**_ The type of activity of the individual during the measurement
 
-The same holds for the test set files: X_test.txt, subject_test.txt and y_train.txt
+The same holds for the test set files: _X_test.txt_, _subject_test.txt_ and _y_train.txt_
 
 
 
