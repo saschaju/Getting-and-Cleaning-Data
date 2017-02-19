@@ -34,10 +34,13 @@ In short, for this derived dataset, these signals were used to estimate variable
 * fBodyAccJerkMag
 * fBodyGyroMag
 * fBodyGyroJerkMag
+
+
 The set of variables that were estimated (and kept for this assignment) from these signals are:
 
 * mean(): Mean value
 * std(): Standard deviation
+
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 * gravityMean
