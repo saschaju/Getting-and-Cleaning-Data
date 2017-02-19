@@ -2,7 +2,7 @@
 ## Introduction
 The orgininal data that was used to for the following data analysis can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-In order to be able to reproduce the commands contained in *__run_analysis.R*__, the working directory must contain the unzipped data in a folder named "UCI HAR Dataset". The unzipping defaults to this folder name.
+In order to be able to reproduce the commands contained in __*run_analysis.R*__, the working directory must contain the unzipped data in a folder named "UCI HAR Dataset". The unzipping defaults to this folder name.
 
 The folder should contain to subfolders, "train" and "test" as well as four text files: README.TXT, features_info.txt, features.txt and activity_labels.txt.
 
