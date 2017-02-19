@@ -27,7 +27,7 @@ _**activity_labels.txt:**_ A list of possible types of activities.
 
 
 
-## nr. of observations
+## Nr. of observations
 
 test data:  2'947
 
@@ -35,4 +35,5 @@ train data: 7'352
 
 
 ## Data Analysis
+The code in *run_analysis.R* includes comments on each individual step. In summary, the code reads the train and the test set with the activity measures. In a next step, the information on the individual and on the specific activity is assigned to the measurement. As the activity is coded from 1-5, we convert the variable to factors with meaningful labels. Next, the train and test set is merged and only variables containing information on mean and standard deviation measures are kept. Additionally, special characters and upper case letters are removed from the variable names to ensure R standards. As a last step, we compute the average per individual and activity for all measures and write this tidy data set to the disk (__*data_averages.txt*___).
 
