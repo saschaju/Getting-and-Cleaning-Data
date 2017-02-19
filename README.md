@@ -20,6 +20,7 @@ In summary, the following files are used in the analysis:
 The same holds for the test set files: X_test.txt, subject_test.txt and y_train.txt
 
 
+
 **nr. of observations**
 
 test data:  2'947
